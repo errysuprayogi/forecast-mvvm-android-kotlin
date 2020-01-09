@@ -1,4 +1,5 @@
 ---
 linters:
     ktlint:
+        fixer: true
         android: true
