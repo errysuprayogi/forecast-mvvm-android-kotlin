@@ -3,3 +3,5 @@ linters:
     ktlint:
         fixer: true
         android: true
+fixers:
+    enable: true
